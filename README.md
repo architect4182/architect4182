@@ -1,7 +1,7 @@
-# 👋 Hey, I'm **Chaithanya Pedhagali** 👋
+# Hey, I'm **Chaithanya Pedhagali** 👋
 
 ```
-Full Stack Developer | Data Analyst | Enterprise Systems Architect
+Full Stack Developer | UI/UX Designer | Data Analyst | Enterprise Systems Architect
 Results-driven developer crafting seamless digital experiences
 ```
 
