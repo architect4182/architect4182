@@ -1,4 +1,4 @@
-# 👋 Hey, I'm **Chaithanya Pedhagali**
+# 👋 Hey, I'm **Chaithanya Pedhagali** <img src="https://media.giphy.com/media/hvRJCLFzcasrng15KV/giphy.gif" width="35px">
 
 ```
 Full Stack Developer | Data Analyst | Enterprise Systems Architect
