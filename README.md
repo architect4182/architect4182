@@ -1,160 +1,237 @@
-# Hi there, I'm Chaithanya Pedhagali 👋
+# 👋 Hey, I'm **Chaithanya Pedhagali**
 
-**Full Stack Developer & Data Analyst** | Information Technology Analyst at NTT DATA | 4+ Years of Experience
-
-Welcome to my GitHub profile! I'm a results-driven developer passionate about building enterprise-grade web applications, crafting seamless digital experiences, and transforming complex datasets into actionable insights.
+```
+Full Stack Developer | Data Analyst | Enterprise Systems Architect
+Results-driven developer crafting seamless digital experiences
+```
 
 ---
 
-## 🚀 About Me
+## 🎯 Quick Overview
 
-I'm **Chaithanya Pedhagali**, a Full Stack Developer and Data Analyst with **4+ years** of hands-on experience building enterprise-grade web applications. I specialize in transforming complex datasets into meaningful insights using **Power BI, SQL, and Python**, while architecting scalable backend systems with **Java, Spring Boot, and microservices**.
+<div align="center">
 
-My experience bridges analytics and software engineering, allowing me to approach problems strategically and create impactful digital experiences that deliver measurable business value. I'm passionate about solving real-world problems through technology and optimizing performance across the entire stack.
+| 👨‍💼 | 📊 | 🏢 | 🎓 |
+|---|---|---|---|
+| **4+ Years** | **15+ APIs** | **NTT DATA** | **B.Tech CSE** |
+| Experience | Developed | Currently | Presidency Univ |
 
-📍 **Location:** Bangalore, India  
-🎓 **Education:** B.Tech Computer Science & Engineering (Presidency University, 2018-2022)  
-💼 **Current Role:** Information Technology Analyst at NTT DATA (The Hanover Insurance Group)
+</div>
+
+---
+
+## 💡 About Me
+
+> **"Great code should feel effortless."**
+
+I'm a **Full Stack Developer & Data Analyst** with a passion for building **enterprise-grade applications** that solve real-world business problems. My expertise spans from optimizing complex databases to architecting scalable microservices and transforming raw data into actionable insights.
+
+Currently working as an **Information Technology Analyst** at **NTT DATA**, where I develop enterprise insurance solutions for **The Hanover Insurance Group** using modern tech stacks and proven engineering practices.
+
+- 🌍 **Location:** Bangalore, India
+- 💼 **Current Role:** Information Technology Analyst @ NTT DATA
+- 🎓 **Education:** B.Tech Computer Science & Engineering
+- 🔗 **Portfolio:** [chaithanya-portfolio-pi.vercel.app](https://chaithanya-portfolio-pi.vercel.app/)
+
+---
+
+## 🏆 Key Achievements
+
+<table>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/Performance_Boost-20%25-brightgreen?style=for-the-badge&logo=speedtest" alt="DB Optimization"/>
+  <br/>
+  <b>Database Optimization</b><br/>
+  Oracle & SQL Server query tuning
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Load_Time_Reduction-30%25-blue?style=for-the-badge&logo=lightning" alt="Performance"/>
+  <br/>
+  <b>Application Speed</b><br/>
+  Lazy loading & route optimization
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-15%2B-red?style=for-the-badge&logo=api" alt="APIs"/>
+  <br/>
+  <b>APIs Developed</b><br/>
+  Enterprise-scale integrations
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Certifications-200%2B-yellow?style=for-the-badge&logo=certificate" alt="Certs"/>
+  <br/>
+  <b>Verified Certs</b><br/>
+  Skillsoft Digital Badges
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔵 Backend & Microservices
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=docker&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF5733?style=for-the-badge&logo=server&logoColor=white)
+
+### 🎨 Frontend & UI
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📊 Data & Analytics
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Databases
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🤖 AI & Design
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 💼 Professional Experience
 
-### Information Technology Analyst
-**NTT DATA** | Client: The Hanover Insurance Group  
-*July 2022 - Present*
+### 🎯 Information Technology Analyst
+**NTT DATA** | *July 2022 - Present*  
+**Client:** The Hanover Insurance Group
 
-**Key Achievements:**
-- ✦ Developed and maintained RESTful APIs and microservices using Java 11, Spring Boot, and Spring Security with role-based authentication (RBAC)
-- ✦ Designed and implemented core insurance workflow modules including policy creation, endorsements, renewals, cancellations, and claims processing
-- ✦ Optimized Oracle and Microsoft SQL Server database queries → **20% performance improvement**
-- ✦ Built responsive Angular applications using TypeScript, HTML5, CSS3, and reusable component architecture
-- ✦ Implemented lazy loading, route optimization, and performance enhancements → **30% reduction in load times**
-- ✦ Collaborated in Agile/Scrum teams, sprint planning, code reviews, UAT, and CI/CD pipelines
-- ✦ Integrated SOAP and REST APIs for seamless backend communication
-- ✦ Developed 15+ REST APIs for enterprise-scale applications
+**Responsibilities & Achievements:**
 
----
-
-## 🛠️ Technical Toolkit
-
-### Backend & Server-Side
-`Java` • `Spring Boot` • `Spring Security` • `Microservices Architecture` • `REST APIs` • `SOAP Integration`
-
-### Frontend & Web Development
-`React.js` • `Angular` • `Next.js` • `TypeScript` • `HTML5` • `CSS3` • `Responsive Design`
-
-### Data & Analytics
-`Power BI` • `SQL` • `Python` • `Data Visualization` • `Business Intelligence` • `Database Optimization`
-
-### Databases
-`Oracle` • `Microsoft SQL Server` • `SQL Server Optimization`
-
-### DevOps & Infrastructure
-`AWS` • `CI/CD Pipelines` • `Git` • `GitHub` • `Agile/Scrum`
-
-### AI & Design Tools
-`ChatGPT` • `Claude` • `Google Gemini` • `GitHub Copilot` • `Grok` • `Figma` • `Framer`
+- ✅ **Backend Development** - Designed & developed RESTful APIs and microservices using **Java 11, Spring Boot, Spring Security**
+- ✅ **Enterprise Workflows** - Implemented core insurance modules (policy management, claims processing, endorsements, renewals)
+- ✅ **API Integration** - Integrated **SOAP & REST APIs** for seamless backend communication
+- ✅ **Database Optimization** - Tuned **Oracle & SQL Server queries** → **20% performance boost**
+- ✅ **Frontend Development** - Built responsive **Angular applications** with TypeScript, HTML5, CSS3
+- ✅ **Performance Tuning** - Implemented lazy loading & route optimization → **30% load time reduction**
+- ✅ **Team Collaboration** - Agile/Scrum, sprint planning, code reviews, UAT, CI/CD pipelines
+- ✅ **API Production** - Developed **15+ enterprise-grade REST APIs**
 
 ---
 
-## 🎯 Core Competencies
+## 🎓 Education & Credentials
 
-### Business Intelligence
-Transforming raw data into actionable insights through dashboards and data visualization. Building comprehensive reports that drive business decisions.
-
-### Software Development
-Building modern web applications and enterprise systems using proven engineering practices. Focused on scalability, maintainability, and performance.
-
-### Data-Driven Solutions
-Combining analytics and engineering to solve business problems and improve decision-making. Creating systems that leverage data for competitive advantage.
-
-### Microservices Architecture
-Designing and implementing scalable microservices-based systems. Expert in API integration, service communication, and distributed system design.
-
----
-
-## 📊 By The Numbers
-
-| Metric | Value |
-|--------|-------|
-| **Years of Experience** | 4+ |
-| **REST APIs Developed** | 15+ |
-| **Database Performance Improvement** | 20% |
-| **Application Load Time Reduction** | 30% |
-| **Verified Certifications** | 200+ |
-| **Enterprise Clients** | The Hanover Insurance Group |
-
----
-
-## 🎓 Education & Certifications
-
-### Degree
+### 📚 Degree
 **B.Tech – Computer Science & Engineering**  
 Presidency University, Bangalore (2018-2022)
 
-**Relevant Coursework:** Data Structures, Algorithms, Database Management Systems, Object-Oriented Programming, Web Technologies
+**Relevant Coursework:** Data Structures • Algorithms • DBMS • OOP • Web Technologies
 
 **Capstone Project:** Comprehensive Student Management System
 
-### Professional Certifications
-- **Introduction to Artificial Intelligence (AI)** — IBM (Coursera) · Aug 2020
-- **Introduction to Python** — DataCamp
+### 🏅 Certifications
+- **Artificial Intelligence (AI)** — IBM (Coursera) • Aug 2020
+- **Python for Data Science** — DataCamp
 - **200+ Verified Certifications** — Skillsoft Digital Badge Wallet
-  - Java, GitHub, Artificial Intelligence, Data Analytics, Cloud Computing, and more
+  - Java • GitHub • Artificial Intelligence • Data Analytics • Cloud Computing
 
 ---
 
-## 🌟 Services & Specializations
+## 🎨 Core Competencies
 
-1. **☕ Java & Spring Boot** — Enterprise application development with Spring Boot, Spring Security, and microservices
-2. **🌐 Angular, React & Next.js** — Modern frontend development with responsive, component-based architecture
-3. **🏗️ Microservices Architecture** — Designing scalable, distributed systems with RESTful APIs
-4. **⚙️ DevOps & CI/CD** — Infrastructure automation, continuous integration, and deployment pipelines
-5. **📊 Business Intelligence** — Data analysis, visualization, and dashboard creation with Power BI
-6. **🗄️ Database Optimization** — SQL query optimization and database performance tuning
+<table>
+<tr>
+<td width="33%">
 
----
+#### 💼 Business Intelligence
+Transforming raw data into **actionable insights** through Power BI dashboards and data visualization. Building comprehensive reports that drive strategic business decisions.
 
-## 🌱 My Philosophy
+</td>
+<td width="33%">
 
-> **"Great code should feel effortless."**
+#### 🏗️ Software Development
+Building **enterprise-scale web applications** using proven engineering practices. Focus on scalability, maintainability, performance, and clean code principles.
 
-I believe in writing code that's not just functional, but also clean, maintainable, and elegant. I bridge the gap between complex business requirements and intuitive user experiences, always keeping performance and scalability in mind.
+</td>
+<td width="33%">
 
----
+#### 📊 Data-Driven Solutions
+Combining analytics and engineering to **solve business problems** and improve decision-making. Creating systems that leverage data for competitive advantage.
 
-## 📫 Let's Connect!
-
-I'm open to collaborations, interesting projects, and discussions about software architecture, data analytics, and enterprise systems.
-
-- **💼 LinkedIn:** [linkedin.com/in/chaithanya-pedhagali](https://www.linkedin.com/in/chaithanya-pedhagali)
-- **💻 GitHub:** [github.com/architect4182](https://github.com/architect4182)
-- **🌐 Portfolio:** [chaithanya-portfolio-pi.vercel.app](https://chaithanya-portfolio-pi.vercel.app/)
-- **📧 Email:** [chaithanya@example.com](mailto:chaithanya@example.com)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let's Build Something Great!
+## 🚀 Services & Expertise
 
-I'm always interested in:
-- Collaborating on enterprise-scale projects
-- Discussing system design and architecture patterns
-- Contributing to open-source initiatives
-- Sharing knowledge and learning from the community
-- Building solutions that deliver measurable business impact
+| Service | Details |
+|---------|---------|
+| **☕ Java & Spring Boot** | Enterprise application development, microservices, Spring Security, RBAC |
+| **🌐 Modern Frontend** | React, Angular, Next.js with TypeScript, responsive design, component architecture |
+| **🏛️ Microservices Architecture** | Scalable distributed systems, RESTful APIs, service communication patterns |
+| **⚙️ DevOps & CI/CD** | Infrastructure automation, continuous integration/deployment, AWS, GitHub Actions |
+| **📊 Business Intelligence** | Power BI dashboards, data visualization, SQL analytics, Python data processing |
+| **🗄️ Database Optimization** | Query tuning, performance analysis, Oracle & SQL Server expertise |
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=architect4182&show_icons=true&theme=radical&hide_border=true)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=architect4182&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=architect4182&layout=compact&theme=radical&hide_border=true)
 
+</div>
+
 ---
 
-⭐ If you find my work interesting, feel free to star my repositories and reach out!
+## 📫 Connect With Me
 
-**Last Updated:** July 12, 2026 | Built with passion for clean code and seamless digital experiences
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaithanya-pedhagali)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/architect4182)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://chaithanya-portfolio-pi.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaithanya@example.com)
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm passionate about:
+- 🏗️ Building scalable enterprise applications
+- 📊 Data-driven decision making systems
+- 🎯 Solving complex business problems through technology
+- 👥 Open-source contributions
+- 💡 Mentoring and knowledge sharing
+
+**Open to:** Full-time opportunities • Contract projects • Collaborations • Consulting
+
+---
+
+<div align="center">
+
+### 💬 Let's build something extraordinary together!
+
+[![Say Hello](https://img.shields.io/badge/Say%20Hello-Let's%20Chat-blueviolet?style=for-the-badge)](mailto:chaithanya@example.com)
+
+---
+
+<sub>⭐ If you found this helpful, please consider starring my repositories!</sub>
+
+**Last Updated:** July 12, 2026 | Crafting seamless digital experiences
+
+</div>
