@@ -184,13 +184,19 @@ Combining analytics and engineering to **solve business problems** and improve d
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=architect4182&show_icons=true&theme=radical&hide_border=true&count_private=true)
+**View my GitHub Profile:** [github.com/architect4182](https://github.com/architect4182)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=architect4182&layout=compact&theme=radical&hide_border=true)
+![GitHub Contribution Graph](https://ghchart.rosehosting.com/architect4182)
+
+**Top Languages & Repositories:**
+
+Check out my repositories for enterprise applications, data analytics projects, and full-stack implementations.
+
+[Visit GitHub Profile →](https://github.com/architect4182?tab=repositories)
 
 </div>
 
@@ -230,7 +236,7 @@ I'm passionate about:
 
 ---
 
-<sub>⭐ If you found this helpful, please consider starring my repositories!</sub>
+<sub>⭐ If you found this helpful, please consider starring my repositories and connecting with me!</sub>
 
 **Last Updated:** July 12, 2026 | Crafting seamless digital experiences
 
