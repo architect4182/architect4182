@@ -14,7 +14,7 @@ Results-driven developer crafting seamless digital experiences
 | 👨‍💼 | 📊 | 🏢 | 🎓 |
 |---|---|---|---|
 | **4+ Years** | **15+ APIs** | **NTT DATA** | **B.Tech CSE** |
-| Experience | Developed | Currently | Presidency Univ |
+| Experience | Developed | Currently | Presidency University |
 
 </div>
 
